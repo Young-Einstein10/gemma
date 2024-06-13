@@ -1,7 +1,5 @@
-import { Inter } from "next/font/google";
-
-const inter = Inter({ subsets: ["latin"] });
+import React from "react";
 
 export default function Home() {
-  return <p>Hello World</p>;
+  return <p className="text-2xl">Hello World</p>;
 }
