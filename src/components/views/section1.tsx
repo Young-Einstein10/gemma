@@ -16,12 +16,12 @@ const Section1 = () => {
             </h2>
             <p className="text-gray-600 mb-6">
               Tell us about your dietary preferences, schedule, and health
-              goals, and we'll create a custom meal plan just for you.
+              goals, and we&apos;ll create a custom meal plan just for you.
             </p>
             <form className="space-y-4">
               <div>
                 <Label htmlFor="dietary-preferences">Dietary Preferences</Label>
-                <Select id="dietary-preferences" multiple>
+                <Select>
                   <option value="vegetarian">Vegetarian</option>
                   <option value="vegan">Vegan</option>
                   <option value="gluten-free">Gluten-Free</option>

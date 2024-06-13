@@ -20,9 +20,9 @@ const Section2 = () => {
               Discover Your Perfect Meals
             </h2>
             <p className="text-gray-600 mb-6">
-              Based on your preferences and goals, we'll generate a personalized
-              weekly meal plan with recipes, grocery lists, and nutritional
-              information.
+              Based on your preferences and goals, we&apos;ll generate a
+              personalized weekly meal plan with recipes, grocery lists, and
+              nutritional information.
             </p>
             <div className="grid grid-cols-2 gap-4">
               <Card>
