@@ -27,7 +27,7 @@ const Section2 = () => {
             <div className="grid grid-cols-2 gap-4">
               <Card>
                 <CardContent>
-                  <h3 className="text-lg font-bold mb-2">Breakfast</h3>
+                  <h3 className="text-lg font-bold my-4">Breakfast</h3>
                   <p className="text-gray-600">
                     Avocado Toast with Poached Eggs
                   </p>
@@ -35,7 +35,7 @@ const Section2 = () => {
               </Card>
               <Card>
                 <CardContent>
-                  <h3 className="text-lg font-bold mb-2">Lunch</h3>
+                  <h3 className="text-lg font-bold my-4">Lunch</h3>
                   <p className="text-gray-600">
                     Grilled Chicken Salad with Quinoa
                   </p>
@@ -43,7 +43,7 @@ const Section2 = () => {
               </Card>
               <Card>
                 <CardContent>
-                  <h3 className="text-lg font-bold mb-2">Dinner</h3>
+                  <h3 className="text-lg font-bold my-4">Dinner</h3>
                   <p className="text-gray-600">
                     Baked Salmon with Roasted Vegetables
                   </p>
@@ -51,7 +51,7 @@ const Section2 = () => {
               </Card>
               <Card>
                 <CardContent>
-                  <h3 className="text-lg font-bold mb-2">Snack</h3>
+                  <h3 className="text-lg font-bold my-4">Snack</h3>
                   <p className="text-gray-600">
                     Greek Yogurt with Berries and Granola
                   </p>
