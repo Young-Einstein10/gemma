@@ -1,8 +1,8 @@
 import { ReactNode } from "react";
 import { cn } from "@/lib/utils";
-import { Inter as FontSans } from "next/font/google";
 import Header from "./header";
 import Footer from "./footer";
+import { Inter as FontSans } from "next/font/google";
 
 const fontSans = FontSans({
   subsets: ["latin"],
